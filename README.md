@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm omid ghane</h1>
 <h3 align="center">A passionate Studnet of Computer Engineering</h3>
 
-- 🔭 I’m currently working on **Landshot blockchain game**
+- 🔭 I’m currently working on **Shooter blockchain game**
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **DockerSwarm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omidghane?tab=repositories](https://github.com/omidghane?tab=repositories)
 
